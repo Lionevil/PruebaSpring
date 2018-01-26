@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: contactoTest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lionevil
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/contactoTest
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
